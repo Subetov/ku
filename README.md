@@ -14,7 +14,7 @@ A fast, keyboard-driven Kubernetes TUI. Browse any resource, read and edit
 objects, follow logs, port-forward Services, and open a shell in a pod, without
 leaving the terminal.
 
-Looking for a mouse-driven Kubernetes UI? Try [st8ks]([https://k8slens.dev/](https://github.com/bjarneo/st8ks)).
+Looking for a mouse-driven Kubernetes UI? Try [st8ks](https://github.com/bjarneo/st8ks).
 
 Inspired by k9s, Lens, and lazygit.
 
